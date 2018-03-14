@@ -1,0 +1,8 @@
+[package]
+name = "twelve-days-of-christmas"
+version = "0.1.0"
+authors = ["Hannan Ali <abdulhannanali@outlook.com>"]
+
+[dependencies]
+colored = "1.6.0"
+term = "^0.5"
